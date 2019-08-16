@@ -1,0 +1,5 @@
+Goose	KEYWORD1
+power_on	KEYWORD2
+power_off	KEYWORD2
+sing	KEYWORD2
+one_click	KEYWORD2

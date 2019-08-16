@@ -4,7 +4,7 @@
 class Goose{
   public:
     Goose(int selectPin,int resetPin);
-    void sing(int song_num);
+    void sing(int song_num); //select 0-5, 0:song 1-5:cry
     void power_on();
     void power_off();
     void one_click();
